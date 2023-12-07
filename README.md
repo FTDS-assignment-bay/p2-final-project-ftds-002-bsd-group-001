@@ -1,7 +1,7 @@
 ### P2-FINAL-PROJECT-FTDS-002-BSD-GROUP-001
 # Subscription Revenue Prediction 2022
 
-## Porject Deployment : https://huggingface.co/spaces/atsudan/SubscriptionForecast
+## Project Deployment : https://huggingface.co/spaces/atsudan/SubscriptionForecast
 
 **Team Members:**
 - Audrey Wanto
