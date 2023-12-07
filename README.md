@@ -1,13 +1,15 @@
 ### P2-FINAL-PROJECT-FTDS-002-BSD-GROUP-001
 # Subscription Revenue Prediction 2022
 
+## Porject Deployment : https://huggingface.co/spaces/atsudan/SubscriptionForecast
+
 **Team Members:**
 - Audrey Wanto
 - Jeni Kasturi
 - Taufiqurrahman
 
 ## Project Overview
-Welcome to our Subscription Revenue Prediction project for 2022! We've gathered a talented team to dive into the data, leveraging advanced machine learning techniques to forecast both annual and monthly subscription revenues. Our aim is to not only predict but to visually showcase the factors influencing subscription performance throughout the year. These insights will be the cornerstone for strategic marketing, precise budget allocations, and effective resource management to achieve revenue targets.
+Welcome to our Subscription Revenue Prediction project for 2022-2023! We've gathered a talented team to dive into the data, leveraging advanced machine learning techniques to forecast both annual and monthly subscription revenues. Our aim is to not only predict but to visually showcase the factors influencing subscription performance throughout the year. These insights will be the cornerstone for strategic marketing, precise budget allocations, and effective resource management to achieve revenue targets.
 
 ## Key Highlights
 1. **Data Odyssey:** We embark on an in-depth exploration of current customer subscription data, uncovering hidden patterns and insights.
