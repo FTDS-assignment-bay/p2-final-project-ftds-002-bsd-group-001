@@ -161,6 +161,8 @@ def cleaningData():
             revenue_list.append(revenue)
         elif row['name'] == 'monthly_subscription' and row['churn'] == 0:
             duration = ((max - row['signup_date_time'])//np.timedelta64(1, 'M'))
+            if duration == 0:
+                duration = 1
             revenue = duration * 125
             revenue_list.append(revenue)
     df['revenue'] = revenue_list
