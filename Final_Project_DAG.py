@@ -153,6 +153,8 @@ def cleaningData():
             revenue_list.append(revenue)
         elif row['name'] == 'annual_subscription' and row['churn'] == 0:
             duration = 2021 - row['signup_year'] # Data stops at 2021, hence this will be the limit
+            if duration == 0:
+                duration = 1
             revenue = duration * 1200
             revenue_list.append(revenue)
         elif row['name'] == 'monthly_subscription' and row['churn'] == 1:
